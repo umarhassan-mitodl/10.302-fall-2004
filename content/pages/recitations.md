@@ -101,4 +101,4 @@ Recitation 13 ({{% resource_link "f338c97d-4d09-a21c-04e8-f3fd1ec378fe" "PDF" %}
  
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-The [Student Companion Web Site](https://web.archive.org/web/20080210055330/http://bcs.wiley.com/he-bcs/Books?action=index&itemId=0471386502&itemTypeId=BKS&bcsId=1737) for the course text includes a listing of problem solutions.
+The {{% resource_link "e27eab5b-9439-4970-a65c-02d8499faec2" "Student Companion Web Site" %}} for the course text includes a listing of problem solutions.
