@@ -5,6 +5,8 @@ description: This resource includes the solutions of 2 problems asked in exam 2,
 file: /courses/10-302-transport-processes-fall-2004/50984c5426b221d2c85f129cd5953464_exam2solution.pdf
 file_size: 929333
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: This resource includes the solution of one quiz asked in quiz 3.
 file: /courses/10-302-transport-processes-fall-2004/90dbe3859797d8154bd9874a0122005e_quiz3soln.pdf
 file_size: 297128
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

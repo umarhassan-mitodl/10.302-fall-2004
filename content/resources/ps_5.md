@@ -4,6 +4,8 @@ description: This resource includes 8 problems from the course text.
 file: /courses/10-302-transport-processes-fall-2004/2e552673f38304018e99b97c31bf827b_ps_5.pdf
 file_size: 69304
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
