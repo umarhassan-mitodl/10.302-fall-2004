@@ -4,8 +4,6 @@ description: This resource include 12 example problems rerquired for the course.
 file: /courses/10-302-transport-processes-fall-2004/2c7279ed7869bc9964708ca612cd9a85_exprobs.pdf
 file_size: 360164
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

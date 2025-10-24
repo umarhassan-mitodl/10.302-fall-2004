@@ -4,8 +4,6 @@ description: This resource includes the quiz on strip heater.
 file: /courses/10-302-transport-processes-fall-2004/c4819a02c93e0ddb17f516de65ce2c16_quiz_2.pdf
 file_size: 45423
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

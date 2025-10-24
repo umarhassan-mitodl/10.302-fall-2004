@@ -4,8 +4,6 @@ description: ''
 file: /courses/10-302-transport-processes-fall-2004/3e69e2c0ffd20698178c41dbb3e2ab18_pset4.pdf
 file_size: 16764
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
