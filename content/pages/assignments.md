@@ -56,4 +56,4 @@ Problem Set 9 ({{% resource_link "c4a9a6e9-af13-b4b5-e00d-f85f90d24445" "PDF" %}
 
 Additional Example Problems ({{% resource_link "2c7279ed-7869-bc99-6470-8ca612cd9a85" "PDF" %}})
 
-The [Student Companion Web Site](https://web.archive.org/web/20080828191808/http://jws-edcv.wiley.com/college/bcs/redesign/student/0,12264,_0471386502_BKS_1737_____,00.html) for the [course text](https://web.archive.org/web/20071126073953/http://he-cda.wiley.com/WileyCDA/HigherEdTitle/productCd-0471457280,courseCd-E40800.html) includes a listing of problem solutions.
+The {{% resource_link "ca84f1c7-711b-490f-872c-68d74327c37c" "Student Companion Web Site" %}} for the {{% resource_link "6d830981-fd0d-4ab5-80d0-8bfda939f5db" "course text" %}} includes a listing of problem solutions.
